@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "FlexWurx Docs",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/logo/logo.svg",
+    "light": "/logo/logo.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
@@ -39,16 +39,11 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": [
-        "introduction"
-      ]
+      "pages": ["introduction"]
     },
     {
       "group": "Guides",
-      "pages": [
-        "communication/email-sender",
-        "communication/welcome-email"
-      ]
+      "pages": ["communication/email-sender", "communication/welcome-email"]
     }
   ],
   "footerSocials": {
