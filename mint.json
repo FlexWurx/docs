@@ -46,7 +46,8 @@
     {
       "group": "Guides",
       "pages": [
-        "communication/email-sender"
+        "communication/email-sender",
+        "communication/welcome-email"
       ]
     }
   ],
