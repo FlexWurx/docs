@@ -42,8 +42,12 @@
       "pages": ["introduction"]
     },
     {
-      "group": "Guides",
+      "group": "Communication",
       "pages": ["communication/email-sender", "communication/welcome-email"]
+    },
+    {
+      "group": "Team",
+      "pages": ["team/overview", "team/invite-global-users", "team/invite-resource-users"]
     }
   ],
   "footerSocials": {
