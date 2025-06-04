@@ -42,6 +42,10 @@
       "pages": ["introduction"]
     },
     {
+      "group": "Auth",
+      "pages": ["auth/overview", "auth/login"]
+    },
+    {
       "group": "Communication",
       "pages": ["communication/email-sender", "communication/welcome-email"]
     },
